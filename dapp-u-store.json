@@ -1,12 +1,12 @@
 {
   "name": "DAO Universalis — DeFi",
   "description": "DAO Universalis dapp u to work with expert defi dapp e",
-  "icon": "https://github.com/astowny/dapp-u-builds/raw/main/favicon.ico",
+  "icon": "https://github.com/tonystechofficial/dapp-u-builds/raw/main/favicon.ico",
   "version": "0.2.360",
   "dapps": [
     {
-      "file": "https://github.com/astowny/dapp-u-builds/raw/main/dapp-u.mds.zip",
-      "icon": "https://github.com/astowny/dapp-u-builds/raw/main/favicon.ico",
+      "file": "https://github.com/tonystechofficial/dapp-u-builds/raw/main/dapp-u.mds.zip",
+      "icon": "https://github.com/tonystechofficial/dapp-u-builds/raw/main/favicon.ico",
       "name": "Dapp DeFi",
       "description": "DAO Universalis dapp u to work with expert defi dapp e",
       "version": "0.2.360"

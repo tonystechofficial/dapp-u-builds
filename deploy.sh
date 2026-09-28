@@ -56,5 +56,5 @@ echo -e "${BLUE}⬆️  Pushing to GitHub...${NC}"
 git push
 
 echo -e "${GREEN}✅ Deployment successful!${NC}"
-echo -e "${GREEN}📁 ZIP: https://github.com/astowny/dapp-u-builds/raw/main/dapp-u.mds.zip${NC}"
-echo -e "${GREEN}🎨 Favicon: https://github.com/astowny/dapp-u-builds/raw/main/favicon.ico${NC}"
+echo -e "${GREEN}📁 ZIP: https://github.com/tonystechofficial/dapp-u-builds/raw/main/dapp-u.mds.zip${NC}"
+echo -e "${GREEN}🎨 Favicon: https://github.com/tonystechofficial/dapp-u-builds/raw/main/favicon.ico${NC}"
